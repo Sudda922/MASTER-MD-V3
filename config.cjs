@@ -18,7 +18,7 @@ const config = {
   REJECT_CALL: process.env.REJECT_CALL !== undefined ? process.env.REJECT_CALL === 'true' : , 
   NOT_ALLOW: process.env.NOT_ALLOW !== undefined ? process.env.NOT_ALLOW === 'true' : true,
   MODE: process.env.MODE || "public",
-  OWNER_NAME: process.env.OWNER_NAME || "𝐃𝐔𝐋𝐀𝐍𝐉𝐀𝐍𝐀 𝐑𝐀𝐉𝐀𝐏𝐀𝐊𝐒𝐇𝐀",
+  OWNER_NAME: process.env.OWNER_NAME || "Dulanjana rajapaksha",
   OWNER_NUMBER: process.env.OWNER_NUMBER || "94703074393",
   GEMINI_KEY: process.env.GEMINI_KEY || "",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : , 
